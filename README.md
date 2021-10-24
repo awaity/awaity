@@ -1,4 +1,4 @@
-### awaity
+# awaity
 
 
-- 🌱 I’m currently learning ...
+🌱 Stay Hungry, Stay Foolish.
